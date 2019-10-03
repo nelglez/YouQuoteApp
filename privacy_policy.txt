@@ -1,0 +1,20 @@
+PRIVACY POLICY
+
+INFORMATION WE COLLECT
+
+When you register in our app we collect the following information: username, email, password (which gets encrypted and hashed), and IP address.
+
+When you add/submit a quote we store that text in our database.
+
+REPORTING CONTENT
+
+We have placed a mechanism to report content you do not find suitable. If a quote does not belong to you, you will see an icon "!" that will let you report that post. You will be required to type in a reason for reporting. Once the report is submitted you will not longer see that post ever again. We also get notified via email of a reported post. We will review your report and take appropriate action such as removing the post from our server and banning/removing the user account.
+
+ACCOUNT TERMINATION
+
+We reserve the right to delete or ban your account for any reason without notice to you. Abusive users will be banned from our service and their account may be deleted.
+
+
+CONTACT US
+
+Have questions, concerns, or comments? Please get in touch with the developer at nelglezfl@gmail.com We will try to respond at our earliest convenience.
